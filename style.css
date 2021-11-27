@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+/* font-family: 'Original Surfer', cursive; */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(12, 20, 39);
+}
+
+.btn-0{
+    background-color: cadetblue;
+    padding: 0.5rem;
+    border-radius: 3rem;
+}
+
+.navbar-brand{
+    font-family: 'Original Surfer', cursive;
+    font-size: 1.5rem;
+}
+
+.logo{
+    color: rgb(58, 56, 204);
+}
+
+img{
+    height: 30rem;
+    width: 40rem;
+}
+.btn-1{
+    background-color: rgb(7, 86, 100);
+    font-weight: bold;
+    padding: 0.8rem;
+}
+.btn-2{
+    color: rgb(13, 158, 139);
+    padding: 0.7rem;
+}
